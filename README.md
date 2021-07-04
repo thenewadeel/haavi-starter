@@ -1,60 +1,32 @@
-# Neat Starter
+# Themelight - OnePage HTML5 Business Template
 
-Starter Template for **N**etlify CMS, **E**leventy, **A**lphine JS & **T**ailwind CSS
+Themelight is a blazing fast, responsive business one page website template, glutted with the fantastic interface and excellent professional features to run corporate firms seamlessly. The design of this theme is incredible, can impress visitors in the first impress. Themelight is responsive, crafted following mobile first approach so that the theme can easily fit both inside the wide variety of large screen monitors and tiny mobile devices. The HTML5 and CSS3 business onepage template is saturated with vibrant typography and highly interactive CSS3 animation.
 
-## Live Demo
+<img src="https://cloud.githubusercontent.com/assets/10640964/24954577/c40864d4-1fa1-11e7-864a-77b23af775dd.jpg" alt="Free bootstrap business template by themefisher">
 
-[https://neat-starter.netlify.app/](https://neat-starter.netlify.app/)
+**NOTE:** Please remember to **STAR** this project and **FOLLOW** [my Github](https://github.com/themefisher) to keep you update with this template.
 
-### Technologies used:
+## Demo & Download 
 
-- [Netlify CMS](https://www.netlifycms.org/)
-- [Eleventy](https://www.11ty.dev/)
-- [Alpine.js](https://github.com/alpinejs/alpine)
-- [Tailwind CSS](https://tailwindcss.com/)
-
-| ![image](https://user-images.githubusercontent.com/1884712/93762662-a62e4700-fc2d-11ea-9b2c-fda9f503402b.png) |
-| ------------------------------------------------------------------------------------------------------------- |
+A fully functional demo is available at <a href="http://demo.themefisher.com/demos/?theme=themelight">Demo</a>
+You can visit our website to download this theme <a href="http://www.themefisher.com/product/themelight-bootstrap-business-one-page-website-template/">Download Now</a>
+ 
 
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/surjithctly/neat-starter&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a>
+## Bugs Reports
 
-## Getting Started
+Have a bug or a feature request? Please open a new issue.
 
-Detailed instructions are available in my blog. [Check it out](https://blog.surjithctly.in/neat-stack-create-a-static-website-with-netlify-cms-eleventy-alpinejs-and-tailwindcss)
+## Copyright and license
 
-### 1\. Clone this Repository
+Copyright 2017 themefisher.com, <a target="_blank" href="https://themefisher.com/license">License</a>
 
-```
-git clone https://github.com/surjithctly/neat-starter.git
-```
+## Support Themefisher Development
+Themelight is an MIT licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by buying one of our [premium templates](https://themefisher.com/premium-templates/).
 
-### 2\. Navigate to the directory
 
-```
-cd neat-starter
-```
-
-### 3\. Install dependencies
-
-```
-npm install
-```
-
-### 4\. Build the project to generate the first CSS
-
-This step is only required the very first time.
-
-```
-npm run build
-```
-
-### 5\. Run Eleventy
-
-```
-npm run start
-```
-
-## Author
-
-Surjith S M ( [@surjithctly](https://surjithctly.in/) )
+### Check out our FREE Bootstrap & HTML5 Templates
+Get More FREE Bootstrap templates from our store <a href="https://themefisher.com/free-bootstrap-templates">Bootstrap Templates Store</a>
+And if you want FREE HTML5 Templates then please visit our listing content <a href="https://themefisher.com/best-free-html5-templates-2016/">HTML5 Templates</a>
+Visit Our Website For More Amazing Works
+<a href="https://themefisher.com">Website</a>
