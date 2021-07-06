@@ -1,32 +1,23 @@
-# Themelight - OnePage HTML5 Business Template
+# Haavy - The Landscapers
 
-Themelight is a blazing fast, responsive business one page website template, glutted with the fantastic interface and excellent professional features to run corporate firms seamlessly. The design of this theme is incredible, can impress visitors in the first impress. Themelight is responsive, crafted following mobile first approach so that the theme can easily fit both inside the wide variety of large screen monitors and tiny mobile devices. The HTML5 and CSS3 business onepage template is saturated with vibrant typography and highly interactive CSS3 animation.
+Since 1993, Haavy has been revolutionizing the furniture industry with its core rooted in Pakistani culture. The artefacts are designed elegantly with the notion of enhancing the designs at every step.  We infuse fashion with luxury to indulge our customers in an experience they can cherish. 
 
-<img src="https://cloud.githubusercontent.com/assets/10640964/24954577/c40864d4-1fa1-11e7-864a-77b23af775dd.jpg" alt="Free bootstrap business template by themefisher">
+The wood for the furniture we provide is chosen by experts and are grown on separate land to preserve the integrity of nature. We have developed a relationship of trust and compatibility with our customers by serving them flawlessly. The intricate hand-crafted designs indicate our hard work on exception and uniqueness. 
 
-**NOTE:** Please remember to **STAR** this project and **FOLLOW** [my Github](https://github.com/themefisher) to keep you update with this template.
+We focus on quality and have a deep understanding of how our customers’ demands have transposed over time. For this very reason, we have elongated the branches of Haavy into: 
+ * Landscaping
+ * Interior Designing
+ * Customized Furniture
 
-## Demo & Download 
-
-A fully functional demo is available at <a href="http://demo.themefisher.com/demos/?theme=themelight">Demo</a>
-You can visit our website to download this theme <a href="http://www.themefisher.com/product/themelight-bootstrap-business-one-page-website-template/">Download Now</a>
+Our furniture expertise includes :
+ * Beds
+ * Ottoman closets
+ * Almirahs
+ * Dressing & Dining
+ * Décor 
+ * Wall hangings
+ * Pottery
+ * Paintings
  
-
-
-## Bugs Reports
-
-Have a bug or a feature request? Please open a new issue.
-
-## Copyright and license
-
-Copyright 2017 themefisher.com, <a target="_blank" href="https://themefisher.com/license">License</a>
-
-## Support Themefisher Development
-Themelight is an MIT licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by buying one of our [premium templates](https://themefisher.com/premium-templates/).
-
-
-### Check out our FREE Bootstrap & HTML5 Templates
-Get More FREE Bootstrap templates from our store <a href="https://themefisher.com/free-bootstrap-templates">Bootstrap Templates Store</a>
-And if you want FREE HTML5 Templates then please visit our listing content <a href="https://themefisher.com/best-free-html5-templates-2016/">HTML5 Templates</a>
-Visit Our Website For More Amazing Works
-<a href="https://themefisher.com">Website</a>
+Haavy is all your solutions under same roof with our empathetic employees who are ready to serve you whenever and wherever. We are cognizant of your wants and we know how to turn them into loyalty. For us, customers matter. 
+ 
